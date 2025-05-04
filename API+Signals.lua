@@ -1,4 +1,4 @@
---- Lua-side duplication of the API of events on Roblox objects.
+-- Lua-side duplication of the API of events on Roblox objects.
 -- Signals are needed for to ensure that for local events objects are passed by
 -- reference rather than by value where possible, as the BindableEvent objects
 -- always pass signal arguments by value, meaning tables will be deep copied.
