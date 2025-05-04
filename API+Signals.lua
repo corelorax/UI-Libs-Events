@@ -6,7 +6,6 @@
 -- @classmod Signal
 
 --// by Quenty(?) (owner)
---// Retainment purposes
 
 local HttpService = game:GetService("HttpService")
 
